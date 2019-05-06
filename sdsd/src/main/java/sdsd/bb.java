@@ -9,7 +9,7 @@ public class bb {
 		// TODO Auto-generated method stub
 		int a =10;
 		int b = 520;
-		// TODO Auto-generated method stub
+
 	}
 
 }
